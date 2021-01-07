@@ -1,0 +1,37 @@
+
+{
+    "Projects": [
+        {
+            "name": "PROJECT 天",
+            "path": "/project-tien",
+            "image": "https://i.imgur.com/plwmM4E.jpg",
+            "tools": ["React Native", "National Parks Services API", "OpenWeatherMaps API", "Google Maps Platform"],
+            "links": [
+                {"GitHub" : "https://github.com/RYLiang18/project-Tian"}
+            ],
+            "bullets": [
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+            ],
+            "read_more": "Project 天 (pronounced Ti-en; defn. \"Sky\" in Mandarin) is a React Native app that reports live temperature and weather data for ~500 historical sites and national parks across the United States. During the last 2 years, I have slowly transformed into a weekend warrior, going out hiking with a small group of friends almost every week and trekking through almost every trail in Orange County, California. In the summer of 2020, I was assigned to code a react native application that reported live temperature and weather data for several select coordinates as a skill test for a job I applied for. Inspired by this project, I said to myself, \"this would be a really convenient app for me if temperature and weather were reported for hiking locations instead of these random coordinates that were assigned to me\". And that was how Project 天 was conceived.\nProject 天's UI is coded with React-Native, and locations for all 497 national parks and historical sites are displayed through markers on an interactive Google Maps module, with each marker having a clickable popover displaying temperature and weather conditions. The markers were placed at coordinates retreived by the National Parks Services API, and temperature data was fetched by feeding said coordinates to the OpenWeatherMaps API.\nI learned a lot from this project,as it was my first mobile app and also my first project that used multiple APIs. I was surprised at how easily I could pull data on every single national park in the United States with the use of APIs, and it was also amazing to use the coordinates I fetched from the NPS API as parameters for the OpenWeather API. However, Google Maps was a pain in my ass to setup, and I was not happy to learn that Android Studio and its emulators used up around 20GB of my PC."
+        },
+
+        {
+            "name": "COLORFUL CALCULATOR",
+            "path": "/colorful-calculator",
+            "image": "https://i.imgur.com/Oxk90Vp.jpg",
+            "tools": ["React", "Finite Automata"],
+            "links": [
+                {"Webapp" : "https://colorful-calculator-71831.web.app/"},
+                {"GitHub" : "https://github.com/RYLiang18/project-Tian"}
+            ],
+            "bullets": [
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+            ],
+            "read_more": "Colorful Calculator is a web-based calculator that I coded up with React. Not only was Colorful Calculator my first web project written using a component-based architecture, but it was also good practice for my compiler's course at university since I implemented the logic behind the calculator using finite automata. Entering numbers into a calculator doesn't seem like writing a language, but one is indeed writing in a language consisting of numbers and operators when operating a calculator."
+        }
+    ]
+}
