@@ -1,6 +1,9 @@
 {
-    "resume": "https://drive.google.com/file/d/1jGsKAU8vcjbbto0OnxQOjAzP2luZPrtw/view?usp=sharing",
-    "linkedin": "https://www.linkedin.com/in/ryliang/",
     "email": "mailto:ryliang@umd.edu",
-    "github": "https://github.com/RYLiang18"
+    "links":[
+        {"resume": "https://drive.google.com/file/d/1jGsKAU8vcjbbto0OnxQOjAzP2luZPrtw/view?usp=sharing"},
+        {"linkedin": "https://www.linkedin.com/in/ryliang/"},
+        {"github": "https://github.com/RYLiang18"},
+        {"strava": "https://www.strava.com/athletes/giich"}
+    ]
 }
