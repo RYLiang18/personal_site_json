@@ -7,7 +7,7 @@
             "image": "https://i.imgur.com/plwmM4E.jpg",
             "tools": ["React Native", "National Parks Services API", "OpenWeatherMaps API", "Google Maps Platform"],
             "links": [
-                {"GitHub" : "https://github.com/RYLiang18/project-Tian"}
+                ["Github", "https://github.com/RYLiang18/project-Tian"]
             ],
             "bullets": [
                 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
@@ -23,8 +23,8 @@
             "image": "https://i.imgur.com/Oxk90Vp.jpg",
             "tools": ["React", "Finite Automata"],
             "links": [
-                {"Webapp" : "https://colorful-calculator-71831.web.app/"},
-                {"GitHub" : "https://github.com/RYLiang18/project-Tian"}
+                ["Webapp", "https://colorful-calculator-71831.web.app/"],
+                ["Github", "https://github.com/RYLiang18/project-Tian"]
             ],
             "bullets": [
                 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
