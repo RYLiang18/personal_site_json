@@ -3,7 +3,6 @@
     "Projects": [
         {
             "name": "PROJECT 天",
-            "path": "/project-tien",
             "image": "https://i.imgur.com/plwmM4E.jpg",
             "tools": ["React Native", "National Parks Services API", "OpenWeatherMaps API", "Google Maps Platform"],
             "links": [
@@ -19,7 +18,6 @@
 
         {
             "name": "COLORFUL CALCULATOR",
-            "path": "/colorful-calculator",
             "image": "https://i.imgur.com/Oxk90Vp.jpg",
             "tools": ["React", "Finite Automata"],
             "links": [
