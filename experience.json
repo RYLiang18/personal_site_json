@@ -1,0 +1,18 @@
+{
+    "experiences": [
+        {
+            "name": "SpringGem Weather Information",
+            "position": "Fullstack Developer",
+            "tech_stack": ["Django", "HTML/CSS/JS", "Digital Ocean"],
+            "links": [
+                ["website", "http://sg-weather.com/"]
+            ],
+            "bullets": [
+                "Ad laborum magna magna incididunt laboris dolor quis quis tempor deserunt nisi.",
+                "Dolore laboris dolor elit sunt ut ea.",
+                "Consectetur nulla et ad quis enim."
+            ],
+            "read_more": "Occaecat irure duis officia eu velit velit. Mollit veniam magna occaecat pariatur cupidatat dolore anim ea. Fugiat magna excepteur proident minim magna amet eiusmod laboris adipisicing. Minim occaecat aliqua consequat commodo pariatur duis sunt deserunt minim ad.\\nIn ad ullamco nostrud exercitation veniam nisi anim incididunt veniam ut qui in enim exercitation. Esse non aliquip laborum nostrud ad quis do. Ad officia ea velit non nostrud ipsum ad nisi. Adipisicing reprehenderit velit commodo ea nostrud consectetur cupidatat velit. Amet reprehenderit ut amet ad nostrud quis proident laborum mollit minim elit ipsum aute. Sunt voluptate ut enim ipsum velit."
+        }
+    ]
+}
