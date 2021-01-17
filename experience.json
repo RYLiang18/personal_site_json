@@ -2,7 +2,7 @@
     "experiences": [
         {
             "name": "SpringGem Weather Information",
-            "image": "https://i.imgur.com/itXGHHW.jpg",
+            "image": "https://i.imgur.com/pgs1kCe.jpg",
             "position": "Fullstack Developer",
             "dates": ["Aug. 2020", "Dec. 2020"],
             "tech_stack": ["Django", "HTML/CSS/JS", "Digital Ocean"],
