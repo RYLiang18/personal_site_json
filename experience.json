@@ -10,41 +10,26 @@
                 ["website", "http://sg-weather.com/"]
             ],
             "bullets": [
-                "Used Django and PostgreSQL to build features of a road conditions forecasting webapp for Montana, Michigan, and Georgia Departments of Transportation",
-                "Analyzed data from 1000+ NOAA weather stations with the Numpy data science stack",
-                "Worked with Dr. Menglin S. Jin under the University of Maryland's Atmospheric Sciences Department to film and edit promotional videos for LinkedIn and YouTube"
+                "Ad laborum magna magna incididunt laboris dolor quis quis tempor deserunt nisi.",
+                "Dolore laboris dolor elit sunt ut ea.",
+                "Consectetur nulla et ad quis enim."
             ],
             "read_more": "Occaecat irure duis officia eu velit velit. Mollit veniam magna occaecat pariatur cupidatat dolore anim ea. Fugiat magna excepteur proident minim magna amet eiusmod laboris adipisicing. Minim occaecat aliqua consequat commodo pariatur duis sunt deserunt minim ad.\\nIn ad ullamco nostrud exercitation veniam nisi anim incididunt veniam ut qui in enim exercitation. Esse non aliquip laborum nostrud ad quis do. Ad officia ea velit non nostrud ipsum ad nisi. Adipisicing reprehenderit velit commodo ea nostrud consectetur cupidatat velit. Amet reprehenderit ut amet ad nostrud quis proident laborum mollit minim elit ipsum aute. Sunt voluptate ut enim ipsum velit."
         },
+        
         {
-            "name": "Depository Trust & Clearing Corporation",
-            "image": "https://i.imgur.com/nnHrXwu.jpg",
-            "position": "Software Engineering Intern",
-            "dates": ["Jun. 2020", "Aug. 2020"],
-            "tech_stack": ["Angular", "TypeScript", "Sass"],
+            "name": "Bruh Corporation",
+            "image": "https://i.imgur.com/6vLMCF4.jpg",
+            "position": "Bruh Developer",
+            "dates": ["Aug. 2020", "Dec. 2020"],
+            "tech_stack": ["BruhLang", "BruhScript", "Bruhbuntu"],
             "links": [
-                ["website", "https://www.dtcc.com/"]
+                ["BruhPage", "https://www.urbandictionary.com/define.php?term=Bruh"]
             ],
             "bullets": [
-                "Led a team of 4 interns on the UX CoE team to redesign and redevelop the UI of an enterprise risk reporting dashboard with Angular and Sass",
-                "Adhered to strict Agile/SCRUM workflow with bi-weekly sprints and daily standups",
-                "Prototyped ideas by conducting user interviews, journey mapping, and modeling features with Axure RP",
-                "Thoroughly documented projects with JIRA and managed codebase with BitBucket and Nexus Repository"
-            ],
-            "read_more": "It was a rat's nest. Not a literal one, but that is what her hair seemed to resemble every morning when she got up. It was going to take at least an hour to get it under control and she was sick and tired of it. She peered into the mirror and wondered if it was worth it. It wasn't. She opened the drawer and picked up the hair clippers.\\nDo you really listen when you are talking with someone? I have a friend who listens in an unforgiving way. She actually takes every word you say as being something important and when you have a friend that listens like that, words take on a whole new meaning.\\nDave watched as the forest burned up on the hill, only a few miles from her house. The car had been hastily packed and Marta was inside trying to round up the last of the pets. Dave went through his mental list of the most important papers and documents that they couldn't leave behind. He scolded himself for not having prepared these better in advance and hoped that he had remembered everything that was needed. He continued to wait for Marta to appear with the pets, but she still was nowhere to be seen."
-        },
-        {
-            "name": "University of Maryland Division of IT",
-            "image": "https://i.imgur.com/cJLWKIU.jpg",
-            "position": "Desktop Technician",
-            "dates": ["Feb. 2019", "Mar. 2020"],
-            "tech_stack": ["PowerShell", "UEFI"],
-            "links": [
-                ["website", "https://it.umd.edu/"]
-            ],
-            "bullets": [
-                "Worked with a team of 7 to provide hardware and software support for University of Maryland desktops and laptops",
-                "Responsible for installing, updating, and troubleshooting computers' OS and drivers with PowerShell and UEFI"
+                "get off the internet and get a life bruh",
+                "a male friend (often used as a form of address)",
+                "Consectetur nulla et ad quis enim."
             ],
             "read_more": "It was a rat's nest. Not a literal one, but that is what her hair seemed to resemble every morning when she got up. It was going to take at least an hour to get it under control and she was sick and tired of it. She peered into the mirror and wondered if it was worth it. It wasn't. She opened the drawer and picked up the hair clippers.\\nDo you really listen when you are talking with someone? I have a friend who listens in an unforgiving way. She actually takes every word you say as being something important and when you have a friend that listens like that, words take on a whole new meaning.\\nDave watched as the forest burned up on the hill, only a few miles from her house. The car had been hastily packed and Marta was inside trying to round up the last of the pets. Dave went through his mental list of the most important papers and documents that they couldn't leave behind. He scolded himself for not having prepared these better in advance and hoped that he had remembered everything that was needed. He continued to wait for Marta to appear with the pets, but she still was nowhere to be seen."
         }
