@@ -18,13 +18,13 @@
         },
         
         {
-            "name": "Bruh Corporation",
-            "image": "https://i.imgur.com/6vLMCF4.jpg",
-            "position": "Bruh Developer",
-            "dates": ["Aug. 2020", "Dec. 2020"],
-            "tech_stack": ["BruhLang", "BruhScript", "Bruhbuntu"],
+            "name": "Depository Trust & Clearing Corporation",
+            "image": "https://i.imgur.com/nnHrXwu.jpg",
+            "position": "Software Engineering Intern",
+            "dates": ["Jun. 2020", "Aug. 2020"],
+            "tech_stack": ["Angular", "TypeScript", "Sass"],
             "links": [
-                ["BruhPage", "https://www.urbandictionary.com/define.php?term=Bruh"]
+                ["Website", "https://www.dtcc.com/"]
             ],
             "bullets": [
                 "get off the internet and get a life bruh",
@@ -33,6 +33,7 @@
             ],
             "read_more": "It was a rat's nest. Not a literal one, but that is what her hair seemed to resemble every morning when she got up. It was going to take at least an hour to get it under control and she was sick and tired of it. She peered into the mirror and wondered if it was worth it. It wasn't. She opened the drawer and picked up the hair clippers.\\nDo you really listen when you are talking with someone? I have a friend who listens in an unforgiving way. She actually takes every word you say as being something important and when you have a friend that listens like that, words take on a whole new meaning.\\nDave watched as the forest burned up on the hill, only a few miles from her house. The car had been hastily packed and Marta was inside trying to round up the last of the pets. Dave went through his mental list of the most important papers and documents that they couldn't leave behind. He scolded himself for not having prepared these better in advance and hoped that he had remembered everything that was needed. He continued to wait for Marta to appear with the pets, but she still was nowhere to be seen."
         },
+
         {
             "name": "Bruh Corporation 3",
             "image": "https://i.imgur.com/6vLMCF4.jpg",
