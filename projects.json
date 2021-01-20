@@ -1,12 +1,11 @@
-
 {
     "Projects": [
         {
             "name": "PROJECT 天",
-            "image": "https://i.imgur.com/plwmM4E.jpg",
+            "image": "https://i.imgur.com/RUBN3H3.jpg",
             "tools": ["React Native", "National Parks Services API", "OpenWeatherMap API", "Google Maps Platform"],
             "links": [
-                ["GitHub", "https://i.imgur.com/RUBN3H3.jpg"]
+                ["GitHub", "https://github.com/RYLiang18/project-Tian"]
             ],
             "bullets": [
                 "React Native app for nature and outdoor enthusiasts!",
@@ -15,20 +14,55 @@
             "read_more":
             "Project 天 (pronounced Ti-en; defn. \"Sky\" in Mandarin) is a React Native app that maps out live temperature and weather data for ~500 historical sites and national parks across the United States in Google Maps. In the last couple years, I have become more in-tune with nature, going out hiking friends almost every week and trekking across almost every trail in Orange County, California. In the summer of 2020 while interviewing for a fullstack position at SpringGem Weather Information, I was tasked a coding challenge to create a React Native app that reported live temperature and weather data for several arbitrary geographical coordinates. Inspired by this challenge, I had the idea to apply the challenge’s concept of mapping out live weather data to United States National Parks. And that was how Project 天 was conceived.\\nAs per the coding challenge’s specifications, Project 天's UI is coded with React-Native. Geographic coordinates for all 497 national parks were fetched through the National Parks Services’ REST API and marked on a Google Maps component generated through Google Maps Platform. By entering these coordinates into the OpenWeatherMap API, I was able to give each marker a popover displaying live temperature and weather statistics at that coordinate.\\nFor me, Project 天 is another milestone project not only because it was my first mobile app and one that used many REST APIs, but also because it was one of my first projects that I had an original idea for and that I did for fun. Not to mention, I also speedran this project, finishing it in around a week’s time. When I first started attending university, I was clueless about software development and could at first only follow tutorials and coding exercises that I barely understood. It was a slow process, and oftentimes I would find myself banging my head against a wall. However, through persistence and many attempts, I would create my first legitimate side project, Colorful Calculator. Each side project after that was less daunting but were still learning experiences. Six months later, I surprise myself with how far my React development skills have grown with Project 天."
         },
+
         {
             "name": "ALBeRT",
-            "image": "https://i.imgur.com/Oxk90Vp.jpg",
+            "image": "https://i.imgur.com/5F89LcY.jpg",
             "tools": ["MongoDB", "Express", "React", "NodeJS", "TypeScript", "AWS EC2"],
             "links": [
                 ["GitHub", "https://github.com/RYLiang18/albert"]
             ],
             "bullets": [
-                "Stands for Awesome Legendary BoardgamE Realtime Tracker",
+                "Acronym for Awesome Legendary BoardgamE Realtime Tracker",
                 "Named the app after my friend, who loves playing boardgames",
                 "Learned the MERN stack to develop a webapp that tracks players’ points in board games across multiple playing sessions"
             ],
             "read_more": 
             "ALBeRT is a front-to-back webapp that I developed and hosted on AWS while learning the MERN (MongoDB, Express, React, & NodeJS) web-dev stack. This project’s purpose is to keep track of players’ points in board games across multiple playing sessions. Looking back, ALBeRT could have been much simpler by using something like Firebase Cloud Firestore instead of MongoDB and Express, but I am still glad that I used the MERN stack since I still learned a lot from it.\\nAs a computer science student and someone who still plays boardgames in the digital era, I figured that creating a point-keeping webapp would be a great way to learn about backend development while creating something useful to me and my friends. With ALBeRT, gone are the primitive days of using paper and pencil to track player points 😂!\\nEven though this project only scratches the surface of the MERN stack, building out my own backend taught me a lot about REST APIs, CRUD, differences between HTTP and HTTPS, NoSQL databases, hosting backends with AWS EC2, hiding API keys with gitignore, and much, much more. On the frontend side of things, I learned a lot about React component lifecycles, React Router, and using Axios to send HTTP requests. Since creating this project, my free AWS EC2 instance has expired, so I plan to look into other backend hosting services like Heroku."
+        },
+
+        {
+            "name": "Colorful Calculator",
+            "image": "https://i.imgur.com/3F9hSkv.jpg",
+            "tools": ["React", "TypeScript", "Finite Automata"],
+            "links": [
+                ["Webapp", "https://colorful-calculator-71831.web.app/"],
+                ["GitHub", "https://github.com/RYLiang18/ColorfulCalculator-React"]
+            ],
+            "bullets": [
+                "My first ever ReactJS project!",
+                "Bespoke pocket calculator webapp whose buttons change color whenever pressed",
+                "React implementation of the first Colorful Calculator, a Java project that I did in AP Computer Science"
+            ],
+            "read_more": 
+            "Colorful Calculator is a React implementation of a pocket calculator program by the same name that I coded up with Java Swing for AP Computer Science. At the time, I was trying to follow all my friends’ footsteps and start working on side projects, and I randomly chose React to be the first thing to learn. Not having any good ideas for side projects that would not be too complex, I decided that I would simply reimplement my old AP Computer Science final project in React and try my best to follow \"best practices\". It turns out it wasn’t that simple, and building out Colorful Calculator became a really profound learning experience for me.\\nJust a sliver of what I learned from this side project were: component-based web design, React component hierarchy, callback functions (really important!!), and React component lifecycles. Safe to say, this project served its purpose of getting me to learn React and, judging by the rest of the projects on this website (also built with ⚛), kickstarting my side project portfolio.\\nA couple of months after finishing this project, when I was learning about compilers in a Programming Languages class, I realized that calculators and finite automata have a lot in common since both are state machines. For example, pressing ‘C’ or ‘CE’ on a calculator resets it to its starting state while pressing an operator key takes the calculator to a state where only numbers can be pressed next. The overlap between finite automata and calculators explains why some of the logic in Colorful Calculator is so confusing.\\nOverall, Colorful Calculator was a major milestone in my college career, as it marks the first side project that I ever built using a coding language and a framework that were both self-taught, which in this case was TypeScript and React."
+        },
+
+        {
+            "name": "Unix Filesystem Simulator",
+            "image": "https://i.imgur.com/sSxZ5dh.png",
+            "tools": ["C", "GNU Debugger", "Tree"],
+            "links": [
+                ["Struct Diagram", "https://i.imgur.com/dpcfzXZ.jpg"],
+                ["GitHub (available upon request)", "https://github.com/RYLiang18/UNIX-Filesystem-Lite"]
+            ],
+            "bullets": [
+                "C implementation of a UNIX directory",
+                "Bespoke pocket calculator webapp whose buttons change color whenever pressed",
+                "Complete with files, folders, and navigation commands like \"ls\", \"cd\", \"mkdir\", and \"rm\""
+            ],
+            "read_more": 
+            "The Unix Filesystem Simulator is by far the most complex project that I did for university in my Computer Systems course. I used C to implement a UNIX directory that could be navigated with standard directory commands. In this project, equally as hard as pointer and memory management was diagramming and visualizing how structs should be designed and used together to make a filesystem. To this day, I distinctly remember the breakthrough moment that I experienced when I finally figured out the design for a tree/linked list node struct that could represent files and folders in a filesystem.\\nThis project has made me realize in practice that object-oriented programming is not C’s forte, and I now have a newfound respect for C programmers and those whose editors of choice are Emacs or Vim."
         }
     ]
 }
