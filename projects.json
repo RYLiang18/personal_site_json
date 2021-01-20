@@ -16,7 +16,7 @@
         },
 
         {
-            "name": "ALBeRT",
+            "name": "ALBERT",
             "image": "https://i.imgur.com/5F89LcY.jpg",
             "tools": ["MongoDB", "Express", "React", "NodeJS", "TypeScript", "AWS EC2"],
             "links": [
