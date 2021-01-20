@@ -7,19 +7,20 @@
             "dates": ["Aug. 2020", "Dec. 2020"],
             "tech_stack": ["Django", "HTML/CSS/JS", "Digital Ocean"],
             "links": [
-                ["website", "http://sg-weather.com/"]
+                ["Website", "http://sg-weather.com/"]
             ],
             "bullets": [
-                "Ad laborum magna magna incididunt laboris dolor quis quis tempor deserunt nisi.",
-                "Dolore laboris dolor elit sunt ut ea.",
-                "Consectetur nulla et ad quis enim."
+                "Used Django and PostgreSQL to build features of a road conditions forecasting webapp for Montana, Michigan, and Georgia Departments of Transportation",
+                "Analyzed data from 1000+ NOAA weather stations with the Numpy data science stack",
+                "Worked with Dr. Menglin S. Jin under the University of Maryland's Atmospheric Sciences Department to film and edit products showcases and demos for LinkedIn and YouTube marketing"
             ],
-            "read_more": "Occaecat irure duis officia eu velit velit. Mollit veniam magna occaecat pariatur cupidatat dolore anim ea. Fugiat magna excepteur proident minim magna amet eiusmod laboris adipisicing. Minim occaecat aliqua consequat commodo pariatur duis sunt deserunt minim ad.\\nIn ad ullamco nostrud exercitation veniam nisi anim incididunt veniam ut qui in enim exercitation. Esse non aliquip laborum nostrud ad quis do. Ad officia ea velit non nostrud ipsum ad nisi. Adipisicing reprehenderit velit commodo ea nostrud consectetur cupidatat velit. Amet reprehenderit ut amet ad nostrud quis proident laborum mollit minim elit ipsum aute. Sunt voluptate ut enim ipsum velit."
+            "read_more": 
+            "🚧 COMING SOON 🚧\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac pretium odio, a fermentum nisl. Vestibulum et posuere mi, eu dictum orci. Maecenas eget erat at metus faucibus vulputate et sit amet neque. Donec fringilla ligula ac nunc hendrerit mollis. Etiam ac ex et erat pulvinar vulputate id nec ex. Praesent nec tristique magna. Proin a felis eget ipsum cursus iaculis quis in eros. Quisque malesuada nisl nec tellus rutrum, eu mollis purus sagittis. Proin odio sem, hendrerit quis lectus laoreet, condimentum consequat lorem.\\nDuis porta rhoncus auctor. Aliquam non leo tincidunt, posuere justo in, euismod ante. Sed commodo enim mattis varius pharetra. Donec non nulla sed ex feugiat pulvinar. Curabitur quis varius elit, ut sodales ante. Vivamus imperdiet, felis sed posuere tristique, dolor nisi gravida tortor, sed congue sem erat vitae eros. Proin sed massa risus. Nullam aliquam, justo vel porta bibendum, quam risus commodo risus, in sagittis lorem sapien sit amet nulla. Sed at est interdum, convallis neque eu, convallis tellus. Phasellus dapibus fringilla magna nec dignissim. Suspendisse potenti. Sed sagittis vitae quam et vulputate. Aliquam molestie, orci vitae gravida tristique, mi magna ullamcorper mauris, ut mollis leo felis ac nulla. Nullam vulputate congue accumsan. Quisque nibh lectus, sodales tempor porta non, hendrerit id nunc. Morbi luctus diam sed felis ornare faucibus.\\nVestibulum sed eros vel justo dapibus dapibus. Curabitur nisl magna, molestie eu rhoncus at, semper vel tellus. Nunc ultrices, diam in rutrum feugiat, dui ex tincidunt ligula, ut tristique orci mauris quis eros. Nunc rutrum mollis metus, ut consectetur diam bibendum ac. Donec pharetra id sapien nec tincidunt. Mauris vel dui sed nisi molestie auctor eu in lorem. Aliquam a feugiat libero, at mattis dui. Nulla feugiat ultrices ullamcorper. Cras et pulvinar velit, et aliquam odio. Interdum et malesuada fames ac ante ipsum primis in faucibus.\\nFusce porttitor auctor neque pulvinar varius. Suspendisse id hendrerit enim. Proin eu nulla at magna viverra faucibus eget a eros. Praesent at ex enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra elit vel lorem hendrerit fermentum. Vestibulum congue tortor eget enim posuere, a malesuada lectus bibendum."
         },
         
         {
             "name": "Depository Trust & Clearing Corporation",
-            "image": "https://i.imgur.com/nnHrXwu.jpg",
+            "image": "https://i.imgur.com/cU1ke4c.jpg",
             "position": "Software Engineering Intern",
             "dates": ["Jun. 2020", "Aug. 2020"],
             "tech_stack": ["Angular", "TypeScript", "Sass"],
@@ -27,28 +28,45 @@
                 ["Website", "https://www.dtcc.com/"]
             ],
             "bullets": [
-                "get off the internet and get a life bruh",
-                "a male friend (often used as a form of address)",
-                "Consectetur nulla et ad quis enim."
+                "Led a team of 4 interns on the UX CoE team to redesign and redevelop the UI of an enterprise risk reporting dashboard with Angular and Sass",
+                "Adhered to strict Agile/SCRUM workflow with bi-weekly sprints and daily standups",
+                "Prototyped ideas by conducting user interviews, journey mapping, and modeling features with Axure RP",
+                "Thoroughly documented projects with JIRA and managed codebase with BitBucket and Nexus Repository"
             ],
-            "read_more": "It was a rat's nest. Not a literal one, but that is what her hair seemed to resemble every morning when she got up. It was going to take at least an hour to get it under control and she was sick and tired of it. She peered into the mirror and wondered if it was worth it. It wasn't. She opened the drawer and picked up the hair clippers.\\nDo you really listen when you are talking with someone? I have a friend who listens in an unforgiving way. She actually takes every word you say as being something important and when you have a friend that listens like that, words take on a whole new meaning.\\nDave watched as the forest burned up on the hill, only a few miles from her house. The car had been hastily packed and Marta was inside trying to round up the last of the pets. Dave went through his mental list of the most important papers and documents that they couldn't leave behind. He scolded himself for not having prepared these better in advance and hoped that he had remembered everything that was needed. He continued to wait for Marta to appear with the pets, but she still was nowhere to be seen."
+            "read_more": 
+            "🚧 COMING SOON 🚧\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac pretium odio, a fermentum nisl. Vestibulum et posuere mi, eu dictum orci. Maecenas eget erat at metus faucibus vulputate et sit amet neque. Donec fringilla ligula ac nunc hendrerit mollis. Etiam ac ex et erat pulvinar vulputate id nec ex. Praesent nec tristique magna. Proin a felis eget ipsum cursus iaculis quis in eros. Quisque malesuada nisl nec tellus rutrum, eu mollis purus sagittis. Proin odio sem, hendrerit quis lectus laoreet, condimentum consequat lorem.\\nDuis porta rhoncus auctor. Aliquam non leo tincidunt, posuere justo in, euismod ante. Sed commodo enim mattis varius pharetra. Donec non nulla sed ex feugiat pulvinar. Curabitur quis varius elit, ut sodales ante. Vivamus imperdiet, felis sed posuere tristique, dolor nisi gravida tortor, sed congue sem erat vitae eros. Proin sed massa risus. Nullam aliquam, justo vel porta bibendum, quam risus commodo risus, in sagittis lorem sapien sit amet nulla. Sed at est interdum, convallis neque eu, convallis tellus. Phasellus dapibus fringilla magna nec dignissim. Suspendisse potenti. Sed sagittis vitae quam et vulputate. Aliquam molestie, orci vitae gravida tristique, mi magna ullamcorper mauris, ut mollis leo felis ac nulla. Nullam vulputate congue accumsan. Quisque nibh lectus, sodales tempor porta non, hendrerit id nunc. Morbi luctus diam sed felis ornare faucibus.\\nVestibulum sed eros vel justo dapibus dapibus. Curabitur nisl magna, molestie eu rhoncus at, semper vel tellus. Nunc ultrices, diam in rutrum feugiat, dui ex tincidunt ligula, ut tristique orci mauris quis eros. Nunc rutrum mollis metus, ut consectetur diam bibendum ac. Donec pharetra id sapien nec tincidunt. Mauris vel dui sed nisi molestie auctor eu in lorem. Aliquam a feugiat libero, at mattis dui. Nulla feugiat ultrices ullamcorper. Cras et pulvinar velit, et aliquam odio. Interdum et malesuada fames ac ante ipsum primis in faucibus.\\nFusce porttitor auctor neque pulvinar varius. Suspendisse id hendrerit enim. Proin eu nulla at magna viverra faucibus eget a eros. Praesent at ex enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra elit vel lorem hendrerit fermentum. Vestibulum congue tortor eget enim posuere, a malesuada lectus bibendum."
         },
 
         {
-            "name": "Bruh Corporation 3",
-            "image": "https://i.imgur.com/6vLMCF4.jpg",
-            "position": "Bruh Developer",
-            "dates": ["Aug. 2020", "Dec. 2020"],
-            "tech_stack": ["BruhLang", "BruhScript", "Bruhbuntu"],
+            "name": "University of Maryland Division of IT",
+            "image": "https://i.imgur.com/cJLWKIU.jpg",
+            "position": "Desktop Technician",
+            "dates": ["Feb. 2019", "Mar. 2020"],
+            "tech_stack": ["PowerShell", "UEFI"],
             "links": [
-                ["BruhPage", "https://www.urbandictionary.com/define.php?term=Bruh"]
+                ["Website", "https://dit.umd.edu/"]
             ],
             "bullets": [
-                "get off the internet and get a life bruh",
-                "a male friend (often used as a form of address)",
-                "Consectetur nulla et ad quis enim."
+                "Worked with a team of 7 to provide hardware and software support for University of Maryland desktops and laptops",
+                "Responsible for installing, updating, and troubleshooting computers' OS and drivers with PowerShell and UEFI"
             ],
-            "read_more": "It was a rat's nest. Not a literal one, but that is what her hair seemed to resemble every morning when she got up. It was going to take at least an hour to get it under control and she was sick and tired of it. She peered into the mirror and wondered if it was worth it. It wasn't. She opened the drawer and picked up the hair clippers.\\nDo you really listen when you are talking with someone? I have a friend who listens in an unforgiving way. She actually takes every word you say as being something important and when you have a friend that listens like that, words take on a whole new meaning.\\nDave watched as the forest burned up on the hill, only a few miles from her house. The car had been hastily packed and Marta was inside trying to round up the last of the pets. Dave went through his mental list of the most important papers and documents that they couldn't leave behind. He scolded himself for not having prepared these better in advance and hoped that he had remembered everything that was needed. He continued to wait for Marta to appear with the pets, but she still was nowhere to be seen."
+            "read_more": 
+            "🚧 COMING SOON 🚧\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac pretium odio, a fermentum nisl. Vestibulum et posuere mi, eu dictum orci. Maecenas eget erat at metus faucibus vulputate et sit amet neque. Donec fringilla ligula ac nunc hendrerit mollis. Etiam ac ex et erat pulvinar vulputate id nec ex. Praesent nec tristique magna. Proin a felis eget ipsum cursus iaculis quis in eros. Quisque malesuada nisl nec tellus rutrum, eu mollis purus sagittis. Proin odio sem, hendrerit quis lectus laoreet, condimentum consequat lorem.\\nDuis porta rhoncus auctor. Aliquam non leo tincidunt, posuere justo in, euismod ante. Sed commodo enim mattis varius pharetra. Donec non nulla sed ex feugiat pulvinar. Curabitur quis varius elit, ut sodales ante. Vivamus imperdiet, felis sed posuere tristique, dolor nisi gravida tortor, sed congue sem erat vitae eros. Proin sed massa risus. Nullam aliquam, justo vel porta bibendum, quam risus commodo risus, in sagittis lorem sapien sit amet nulla. Sed at est interdum, convallis neque eu, convallis tellus. Phasellus dapibus fringilla magna nec dignissim. Suspendisse potenti. Sed sagittis vitae quam et vulputate. Aliquam molestie, orci vitae gravida tristique, mi magna ullamcorper mauris, ut mollis leo felis ac nulla. Nullam vulputate congue accumsan. Quisque nibh lectus, sodales tempor porta non, hendrerit id nunc. Morbi luctus diam sed felis ornare faucibus.\\nVestibulum sed eros vel justo dapibus dapibus. Curabitur nisl magna, molestie eu rhoncus at, semper vel tellus. Nunc ultrices, diam in rutrum feugiat, dui ex tincidunt ligula, ut tristique orci mauris quis eros. Nunc rutrum mollis metus, ut consectetur diam bibendum ac. Donec pharetra id sapien nec tincidunt. Mauris vel dui sed nisi molestie auctor eu in lorem. Aliquam a feugiat libero, at mattis dui. Nulla feugiat ultrices ullamcorper. Cras et pulvinar velit, et aliquam odio. Interdum et malesuada fames ac ante ipsum primis in faucibus.\\nFusce porttitor auctor neque pulvinar varius. Suspendisse id hendrerit enim. Proin eu nulla at magna viverra faucibus eget a eros. Praesent at ex enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra elit vel lorem hendrerit fermentum. Vestibulum congue tortor eget enim posuere, a malesuada lectus bibendum."
+        },
+
+        {
+            "name": "Self-Employed",
+            "image": "https://i.imgur.com/nOcO73f.jpg",
+            "position": "AP Computer Science and Java Tutor",
+            "dates": ["Jun. 2018", "Aug. 2019"],
+            "tech_stack": ["APCS", "Java", "OOP"],
+            "links": [],
+            "bullets": [
+                "Tutored 5 middle school, high school, and community college students Java to a working proficiency and assisted them with technical projects",
+                "Created comprehensive curriculum covering Java and OOP principles tested in AP Computer Science"
+            ],
+            "read_more": 
+            "🚧 COMING SOON 🚧\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac pretium odio, a fermentum nisl. Vestibulum et posuere mi, eu dictum orci. Maecenas eget erat at metus faucibus vulputate et sit amet neque. Donec fringilla ligula ac nunc hendrerit mollis. Etiam ac ex et erat pulvinar vulputate id nec ex. Praesent nec tristique magna. Proin a felis eget ipsum cursus iaculis quis in eros. Quisque malesuada nisl nec tellus rutrum, eu mollis purus sagittis. Proin odio sem, hendrerit quis lectus laoreet, condimentum consequat lorem.\\nDuis porta rhoncus auctor. Aliquam non leo tincidunt, posuere justo in, euismod ante. Sed commodo enim mattis varius pharetra. Donec non nulla sed ex feugiat pulvinar. Curabitur quis varius elit, ut sodales ante. Vivamus imperdiet, felis sed posuere tristique, dolor nisi gravida tortor, sed congue sem erat vitae eros. Proin sed massa risus. Nullam aliquam, justo vel porta bibendum, quam risus commodo risus, in sagittis lorem sapien sit amet nulla. Sed at est interdum, convallis neque eu, convallis tellus. Phasellus dapibus fringilla magna nec dignissim. Suspendisse potenti. Sed sagittis vitae quam et vulputate. Aliquam molestie, orci vitae gravida tristique, mi magna ullamcorper mauris, ut mollis leo felis ac nulla. Nullam vulputate congue accumsan. Quisque nibh lectus, sodales tempor porta non, hendrerit id nunc. Morbi luctus diam sed felis ornare faucibus.\\nVestibulum sed eros vel justo dapibus dapibus. Curabitur nisl magna, molestie eu rhoncus at, semper vel tellus. Nunc ultrices, diam in rutrum feugiat, dui ex tincidunt ligula, ut tristique orci mauris quis eros. Nunc rutrum mollis metus, ut consectetur diam bibendum ac. Donec pharetra id sapien nec tincidunt. Mauris vel dui sed nisi molestie auctor eu in lorem. Aliquam a feugiat libero, at mattis dui. Nulla feugiat ultrices ullamcorper. Cras et pulvinar velit, et aliquam odio. Interdum et malesuada fames ac ante ipsum primis in faucibus.\\nFusce porttitor auctor neque pulvinar varius. Suspendisse id hendrerit enim. Proin eu nulla at magna viverra faucibus eget a eros. Praesent at ex enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra elit vel lorem hendrerit fermentum. Vestibulum congue tortor eget enim posuere, a malesuada lectus bibendum."
         }
     ]
 }
