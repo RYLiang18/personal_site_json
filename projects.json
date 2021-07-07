@@ -3,7 +3,7 @@
         {
             "name": "Robo-Corg",
             "image": "https://i.imgur.com/2Xh5lpb.png",
-            "tools": ["Python", "discord.py", "Twilio", "MySQL", "SQLAlchemy"],
+            "tools": ["Python", "discord.py", "twitchAPI", "Twilio", "MySQL", "SQLAlchemy"],
             "links": [
                 ["GitHub", "https://github.com/RYLiang18/robo_corg"]
             ],
