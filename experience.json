@@ -5,7 +5,7 @@
             "image": "https://i.imgur.com/T3CpvbZ.png",
             "position": "Software Engineer",
             "dates": ["Jul. 2022", "Present"],
-            "tech_stack": ["Angular", "Spring Boot", "ActiveMQ"],
+            "tech_stack": ["Angular", "Golang", "Kubernetes", "Cluster API", "Ginkgo", "Cypress", "Terraform"],
             "links": [
                 ["Website", "https://www.vmware.com/products/cloud-director.html"]
             ],
