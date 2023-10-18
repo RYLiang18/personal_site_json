@@ -5,7 +5,7 @@
             "image": "https://i.imgur.com/7Lv3Tbu.png",
             "tools": ["React", "Gatsby", "Python", "Flask", "MongoDB", "Bootstrap"],
             "links": [
-                ["richardliang.com GitHub", "https://github.com/RYLiang18/richardliang.com"]
+                ["richardliang.com GitHub", "https://github.com/RYLiang18/richardliang.com"],
                 ["richardliang.com dashboard GitHub", "https://github.com/RYLiang18/richardliang.com-dashboard"]
             ],
             "bullets": [
